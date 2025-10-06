@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Josué Chizek Espinoza \ 22212382 ; L22212382@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
