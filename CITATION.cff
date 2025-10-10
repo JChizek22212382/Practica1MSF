@@ -15,7 +15,7 @@ authors:
 repository-code: 'https://github.com/JChizek22212382/Practica1MSF'
 keywords:
   - Circuito RLC
-  - Controlador PID
+  - Controlador I
   - Sistema respiratorio
   - Modelo matemático
   - Simulaciones numéricas
